@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open about.html",
-            "file": "d:\\HTMLandCSS\\startbootstrap-business-casual-gh-pages\\about.html"
+            "file": "d:\\HTMLandCSS\\FinalProjectTeam6\\about.html"
         }
     ]
 }
